@@ -4,4 +4,5 @@ matplotlib
 emcee
 corner
 george
+astropy
 
